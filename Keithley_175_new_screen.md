@@ -33,3 +33,5 @@ I finally succeed to decode the digits and options.
 The lib I chossed, is the mighty u8g2 lib. This lib is great, it support lot of screens and a ton of fonts.
 **BUT** it require a lot of RAM.
 No problem, I used a ESP8266 to prototype the interface and the 2kB of RAM usage is not a problem anymore.
+
+The Raspberry pico is the best microcontroller for the job
