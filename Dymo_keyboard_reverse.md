@@ -6,3 +6,7 @@ Furthermore, the tape system is not compatible with the consumer line of Dymo an
 I would lie if I told you it's the first time that I open up this device.
 The construction is very standard, two half shells holded together by self tapers.
 ![The backside of the Dymo](placeholder.png)
+
+## The Keyboard matrix
+
+## Open collectors outputs to the rescue
