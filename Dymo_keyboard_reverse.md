@@ -10,3 +10,5 @@ The construction is very standard, two half shells holded together by self taper
 ## The Keyboard matrix
 
 ## Open collectors outputs to the rescue
+
+## What's next ?
