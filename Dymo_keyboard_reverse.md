@@ -13,4 +13,6 @@ The construction is very standard, two half shells holded together by self taper
 
 ## PS/2 Keyboard integration
 
+## Custom PCB
+
 ## What's next ?
