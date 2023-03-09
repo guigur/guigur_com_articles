@@ -11,4 +11,6 @@ The construction is very standard, two half shells holded together by self taper
 
 ## Open collectors outputs to the rescue
 
+## PS/2 Keyboard integration
+
 ## What's next ?
