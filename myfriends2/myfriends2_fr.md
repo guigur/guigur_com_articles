@@ -1,3 +1,5 @@
+![Banner](myfriends2_banner.png)
+
 ## Présentation
 
 Myfriends2.fr est un ancien projet web de 2013-2014.
