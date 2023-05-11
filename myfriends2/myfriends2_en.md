@@ -33,7 +33,7 @@ Some advertising campaigns were carried out through Twitter and in-game to democ
 
 ![Advertising on the main page of myfriends2](myfriends2_pub.png)
 
-## In retrospect
+## In hindsight
 
 If I had to do a similar project again today, I think I'd be happy even if Minecraft is not really my goto game anymore.
 
