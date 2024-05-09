@@ -1,9 +1,20 @@
+---
+draft: false 
+date: 2017-12-23
+lang: en
+categories:
+  - Web
+authors:
+  - guigur
+---
+
 ![Banner](myfriends2_banner.png)
 
 ## A short summary
 
 Myfriends2.fr is an ancient website of mine from the years 2013-2014.
 It was the website of  MyAppleFr's Minecraft server.
+<!-- more -->
 
 ## Features
 
@@ -41,4 +52,4 @@ However, if there is one thing I would do differently on a new project, it's  th
 
 ## Update 02/26/2018
 
-A backup is available here (only in french) --> [myfriends2.guigur.com](http://myfriends2.guigur.com/) <--
+A backup is available here (only in French) --> [myfriends2.guigur.com](http://myfriends2.guigur.com/) <--

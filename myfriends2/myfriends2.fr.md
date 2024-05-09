@@ -1,9 +1,20 @@
+---
+draft: false 
+date: 2017-12-23
+lang: fr
+categories:
+  - Web
+authors:
+  - guigur
+---
+
 ![Banner](myfriends2_banner.png)
 
 ## Présentation
 
 Myfriends2.fr est un ancien projet web de 2013-2014.
 Celui-ci était le site internet du serveur Minecraft de MyAppleFr.
+<!-- more -->
 
 ## Features
 
