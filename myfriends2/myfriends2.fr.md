@@ -1,56 +1,56 @@
 ---
 draft: false 
 date: 2017-12-23
-lang: fr
+lang: en
 categories:
   - Web
 authors:
   - guigur
+comments: true
 ---
 
 ![Banner](myfriends2_banner.png)
 
-## Présentation
+## A short summary
 
-Myfriends2.fr est un ancien projet web de 2013-2014.
-Celui-ci était le site internet du serveur Minecraft de MyAppleFr.
+Myfriends2.fr is an ancient website of mine from the years 2013-2014.
+It was the website of  MyAppleFr's Minecraft server.
 <!-- more -->
 
 ## Features
 
-Il permettait entre autres de :
+Among other things, you could:
 
-- S'inscrire avec une liaison au serveur (recevoir un code d'activation pour éviter de se faire voler son pseudo)
-- Voir des news relatives au serveur.
-- Poster des images sur le portfolio du serveur
-- Poster des commentaires pour interagir aux articles et aux photos sur le portfolio
-- Voir la dynmap du serveur
-- D'acheter des items via la boutique (mais cette fonctionnalité n'a jamais été finie :/)
+- Sign-up by redeeming a token sent by private message on the Minecraft server. (to avoid having your account stolen)
+- Consult the server's news.
+- Post in-game images on the "Portfolio" board
+- React with comments to articles and Portfolio's pictures.
+- Guide yourself wif the Dynmap of the server.
+- Buy items in the online shop (but sadly, this feature was never finished :/)
 
-## Failles et problèmes de sécurité
+## Security problems and pitfalls
 
-Étant codé "from scratch", le site a souffert de quelques problèmes de sécurité...
+Being coded "from scratch", the website has suffered from some security problems...
 
-Le problème le plus important étant l'utilisation de "mysql_connecy" et l'oubli de "msql_realescape" dans le login qui a résulté à des injections sql...
+The most important problem was the use of "mysql_connect" and the forgetfulness of "msql_realescape" in the sign-in which resulted in SQL injections...
 
-Le problème a rapidement été patché bien que le code du site soit vraiment bordélique.
+The problem was quickly patched although the code of the site is really messy.
 
-Une tentative de recode du site a été entreprise pour le recoder toujours "from scratch" mais cette fois-ci en poo.
+An attempt was undertaken to recode the website. Still "from scratch" but this time using Object-oriented programming (OOP).
+## Community Reception
 
-## Réception de la communauté
+The website worked quite well, the visits were consistent and the community greatly appreciated it.
 
-Le site a plutôt bien fonctionné, les visites étaient consistantes et la communauté a grandement apprécié celui-ci.
+Some advertising campaigns were carried out through Twitter and in-game to democratize the website.
 
-Quelques compagnes de "pub" ont été effectués via twitter et sur le serveur pour démocratiser le site.
+![Advertising on the main page of myfriends2](myfriends2_pub.png)
 
-![Publicité présente sur la page principale de myfriends2](myfriends2_pub.png)
+## In hindsight
 
-## Rétrospective
+If I had to do a similar project again today, I think I'd be happy even if Minecraft is not really my goto game anymore.
 
-Si aujourd'hui je devais refaire un chantier du même genre je pense que je serais ravi bien que Minecraft n'est plus vraiment mon jeu de prédilection.
+However, if there is one thing I would do differently on a new project, it's  the use of a framework like Symfony for instance. This should lighten development and help me structure my code in an organized way. And of course to ensure the project is less susceptible to various security flaws.
 
-Cependant, s'il y a bien une chose que je ferais différemment pour la création d'un nouveau projet, c'est bel et bien de me servir d'un framework comme Symfony par exemple. À la fois pour alléger le développent, mais aussi pour m'aider à structurer mon code de façon organisé, et bien sûr de m'assurer que le projet est moins susceptible aux diverses failles et omission niveau sécurité.
+## Update 02/26/2018
 
-## Update 26/02/2018
-
-Une backup du site est disponible ici --> [myfriends2.guigur.com](http://myfriends2.guigur.com/) <--
+A backup is available here (only in French) --> [myfriends2.guigur.com](http://myfriends2.guigur.com/) <--

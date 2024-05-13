@@ -6,6 +6,7 @@ categories:
   - Electronics
 authors:
   - guigur
+comments: true
 ---
 
 I love my labeling machine! The parts bin I've labeled looks so fancy. But not all my drawers are labeled yet. Why? It's because of this stupid rubber membrane keyboard. I could be so much faster if only I could connect a regular PC keyboard or even better connect the Dymo straight to the computer.

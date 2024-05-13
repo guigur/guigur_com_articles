@@ -7,6 +7,7 @@ categories:
   - 3D Printing
 authors:
   - guigur
+comments: true
 ---
 
 Building a Prusa i3 mk2 ish from an old Chinese kit.

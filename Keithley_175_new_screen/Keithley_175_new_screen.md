@@ -6,6 +6,7 @@ categories:
   - Electronics
 authors:
   - guigur
+comments: true
 ---
 
 ## Presentation
