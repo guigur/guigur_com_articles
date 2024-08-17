@@ -14,7 +14,7 @@ As of the beginning of this year, I worked as an intern at a small IoT company.
 The internship was quite short, and the founder of the company did not pay me because he was not legally obliged to do so. But he lent to me an old Keithley 175 multimeter. 
 I was quite happy to have an old piece of kit in my army of lab equipment. But, there was a catch. This nice DMM has a broken screen. 
 And worst of all, it’s the kind of screen with modes and units displayed on it. 
-And as you may have guessed from the title of this project, the screen was unobtainium of course.
+And as you may have guessed from the title of this project, the screen is not available anymore of course.
 <!-- more -->
 
 ## Finding a replacement.
